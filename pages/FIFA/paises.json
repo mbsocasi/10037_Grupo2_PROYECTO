@@ -1,0 +1,265 @@
+{
+  "Nueva Zelanda": {
+    "nombre": "Nueva Zelanda",
+    "plato_tipico": [
+      "Vegemite on Toast",
+      "Colonial goose",
+      "Meat Pie",
+      "Barramundi"
+    ],
+    
+    "imagenes_platos": [
+      "images/plato1.jpg",
+      "images/plato2.jpeg",
+      "images/plato3.jpg",
+      "images/plato4.jpg"
+    ],
+
+    "moneda": "Dólar neozelandés",
+    "imagen_moneda": "images/nuevazelanda_dolar.jpg",
+    "bandera": "images/nz.png",
+    "provincias": {
+      "Northland": {
+        "nombre": "Northland",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Whangarei",
+            "CodigoPostal": "0110"
+          },
+          {
+            "nombre": "Kaitaia",
+            "CodigoPostal": "0410"
+          },
+          {
+            "nombre": "Kerikeri",
+            "CodigoPostal": "0230"
+          },
+          {
+            "nombre": "Dargaville",
+            "CodigoPostal": "0310"
+          }
+        ]
+      },
+      "Auckland": {
+        "nombre": "Auckland",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Auckland",
+            "CodigoPostal": "1010"
+          },
+          {
+            "nombre": "Manukau",
+            "CodigoPostal": "2104"
+          },
+          {
+            "nombre": "North Shore",
+            "CodigoPostal": "0622"
+          },
+          {
+            "nombre": "Papakura",
+            "CodigoPostal": "2110"
+          }
+        ]
+      },
+      "Waikato": {
+        "nombre": "Waikato",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Hamilton",
+            "CodigoPostal": "3204"
+          },
+          {
+            "nombre": "Taupo",
+            "CodigoPostal": "3330"
+          },
+          {
+            "nombre": "Cambridge",
+            "CodigoPostal": "3434"
+          },
+          {
+            "nombre": "Te Awamutu",
+            "CodigoPostal": "3800"
+          }
+        ]
+      }
+    }
+  },
+  "Australia": {
+    "nombre": "Australia",
+    "plato_tipico": [
+      "Kokoda",
+      "Damper",
+      "Galletas Anzac",
+      "Pavlova"
+    ],
+
+    "imagenes_platos": [
+      "images/plato5.jpg",
+      "images/plato6.jpeg",
+      "images/plato7.jpg",
+      "images/plato8.jpg"
+    ],
+
+    "moneda": "Dólar australiano",
+    "imagen_moneda": "images/australian_dollar.jpg",
+    "bandera": "images/au.gif",
+    "provincias": {
+      "Nueva Gales del Sur": {
+        "nombre": "Nueva Gales del Sur",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad A",
+            "CodigoPostal": "12345"
+          },
+          {
+            "nombre": "Ciudad B",
+            "CodigoPostal": "67890"
+          }
+        ]
+      },
+      "Victoria": {
+        "nombre": "Victoria",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Sídney",
+            "CodigoPostal": "2000"
+          },
+          {
+            "nombre": "Newcastle",
+            "CodigoPostal": "2300"
+          },
+          {
+            "nombre": "Wollongong",
+            "CodigoPostal": "2500"
+          },
+          {
+            "nombre": "Central Coast",
+            "CodigoPostal": "2250"
+          }
+        ]
+      },
+      "Queensland": {
+        "nombre": "Queensland",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Brisbane",
+            "CodigoPostal": "4000"
+          },
+          {
+            "nombre": "Gold Coast",
+            "CodigoPostal": "4217"
+          },
+          {
+            "nombre": "Cairns",
+            "CodigoPostal": "4870"
+          },
+          {
+            "nombre": "Sunshine Coast",
+            "CodigoPostal": "4558"
+          }
+        ]
+      }
+    }
+  },
+  "Fiji": {
+    "nombre": "Fiji",
+    "plato_tipico": [
+      "Curry de Pollo Fiyiano ",
+      "Kava ",
+      "Mahi mahi mahi a la parrilla",
+      "Alu Bhindi"
+    ],
+
+    "imagenes_platos": [
+      "images/plato9.jpg",
+      "images/plato10.jpg",
+      "images/plato11.jpg",
+      "images/plato12.jpg"
+    ],
+
+    "moneda": "Dólar fiyiano",
+    "imagen_moneda": "images/fiyi-dolar.jpg",
+    "bandera": "images/fi.jpg",
+    "provincias": {
+      "División Central": {
+        "nombre": "División Central",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad A",
+            "CodigoPostal": "12345"
+          },
+          {
+            "nombre": "Ciudad B",
+            "CodigoPostal": "67890"
+          }
+        ]
+      },
+      "División Norte": {
+        "nombre": "División Norte",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad C",
+            "CodigoPostal": "54321"
+          },
+          {
+            "nombre": "Ciudad D",
+            "CodigoPostal": "98765"
+          }
+        ]
+      }
+      ,
+      "División Este": {
+        "nombre": "División Este",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad C",
+            "CodigoPostal": "54321"
+          },
+          {
+            "nombre": "Ciudad D",
+            "CodigoPostal": "98765"
+          }
+        ]
+      }
+      ,
+      "División Oeste": {
+        "nombre": "División Oeste",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad C",
+            "CodigoPostal": "54321"
+          },
+          {
+            "nombre": "Ciudad D",
+            "CodigoPostal": "98765"
+          }
+        ]
+      }
+      ,
+      "Rotuma": {
+        "nombre": "Rotuma",
+        "numCiudades": 10,
+        "ciudades": [
+          {
+            "nombre": "Ciudad C",
+            "CodigoPostal": "54321"
+          },
+          {
+            "nombre": "Ciudad D",
+            "CodigoPostal": "98765"
+          }
+        ]
+      }
+    }
+  }
+}

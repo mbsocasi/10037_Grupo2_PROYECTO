@@ -1,0 +1,28 @@
+body{
+    background: url(images/fondo.jpg);
+    background-color: rgba(0, 0, 0, 0.5); /* Aquí, el último valor (0.5) controla la opacidad */
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.bandera {
+    width: 1000px;
+    height: auto;
+}
+
+.bandera-col {
+    display: flex;
+    justify-content: center;
+}
+
+.moneda {
+    width: 800px;
+    height: auto;
+}
+
+.moneda-col {
+    display: flex;
+    justify-content: center;
+}
+

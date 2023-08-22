@@ -1,0 +1,11 @@
+{
+    "preguntas": ["pa.svg", "bo.svg", "ad.svg", "gb.svg", "na.svg"],
+    "correcta": [2,1,0,2,1],
+    "opciones": [
+        ["FIYI", "AUSTRALIA", "NUEVA ZELANDA"],
+        ["WELLINGTON", "SUVA", "CANBERRA"],
+        ["KOKODA", "ALU BHINDI", "MEAT PIE"],
+        ["DÓLAR AUSTRALIANO", "DÓLAR FIYIANO", "DÓLAR NEOZELANDÉZ"],
+        ["FIYI", "AUSTRALIA", "NUEVA ZELANDA"]
+    ]
+}
